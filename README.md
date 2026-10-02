@@ -97,4 +97,4 @@ to use for a personal/portfolio project.
 
 - Add SHAP-based explainability for individual predictions
 - Add an idle-time reduction rule engine on top of the `idle_pct_last_24h` feature
-- Feed the fuel model into the truck–excavator dispatch simulation (Example 3)
+- Feed the fuel model into the truck–excavator dispatch simulation
